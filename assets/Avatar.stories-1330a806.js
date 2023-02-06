@@ -1,0 +1,2 @@
+import{A as t}from"./index-2e61c52d.js";import"./index-39d17dc8.js";import"./es.object.get-own-property-descriptor-037fa860.js";import"./index-f97499ea.js";import"./jsx-runtime-310bfdac.js";const i={title:"Data display/Avatar",component:t,args:{src:"https://github.com/lucasrbasso.png",alt:"Lucas Basso"},argTypes:{src:{control:{type:"text"}}}},p={},m={args:{src:void 0}},e=["Primary","WithFallback"];export{p as Primary,m as WithFallback,e as __namedExportsOrder,i as default};
+//# sourceMappingURL=Avatar.stories-1330a806.js.map
